@@ -24,4 +24,4 @@ const Layout = async ({ children }: { children : React.ReactNode }) => {
         </main>
     )
 }
-export default Layout
+export default Layout 
